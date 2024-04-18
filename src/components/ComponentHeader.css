@@ -1,0 +1,13 @@
+.component-header {
+    background-color: orange;
+    color: white;
+    padding: 20px;
+    text-align: left;
+    display: flex;
+  }
+
+  .header-logo {
+    width: 10%; 
+    height: 5%;
+    margin-right: 10px;
+  }
